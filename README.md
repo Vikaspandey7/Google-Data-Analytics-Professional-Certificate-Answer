@@ -1,53 +1,32 @@
-Important Takeaways from Data Analytics course at Google
-Google Data Analytics Professional Certificate
-This repository contains important takeaways from the Google data analytics professional certificate at coursera. The content in the course are summarized in PDF formate. This does not contains any answers for the quiz.
+Content
+Data analytics is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making. Over 8 courses, gain in-demand skills that prepare you for an entry-level job. You’ll learn from Google employees whose foundations in data analytics served as launchpads for their own careers. At under 10 hours per week, you can complete the certificate in less than 6 months. You’ll prepare yourself for jobs that include junior or associate data analyst, database administrator, and more. Upon completion of the certificate, you can directly apply for jobs with Google and over 150 U.S. employers, including Walmart, Best Buy, Astreya.
 
-My study notes (Since 22nd September 2021)
-1. Foundations: Data, Data, Everywhere
-Introducing data analytics
-Foundations: Data, Data, Everywhere
-The wonderful world of data
-Set up your toolbox
-Endless career possibilities
-Overall notes for Course 1 (Foundations: Data, Data, Everywhere)
-2. Ask Questions to Make Data-Driven Decisions
-Asking effective questions
-Making data-driven decisions
-Learning spreadsheet basics
-Always remember the stakeholder
-Overall notes for Course 2 (Ask Questions to Make Data-Driven Decisions)
-3. Prepare Data for Exploration
-Data types and data structures
-Bias, credibility, privacy, ethics, and access
-Databases: Where data lives
-Organizing and protecting your data
-Optional: Engaging in the data community
-Overall notes for Course 3 (Prepare Data for Exploration)
-4. Process Data from Dirty to Clean
-The importance of integrity
-Sparkling-clean data
-Cleaning data with SQL
-Verify and report on your cleaning results
-Optional: Adding data to your resume
-Overall notes for Course 4 (Process Data from Dirty to Clean)
-5. Analyze Data to Answer Questions
-Organizing data to begin analysis
-Formatting and adjusting data
-Aggregating data for analysis
-Performing data calculations
-Overall notes for Course 5 (Analyze Data to Answer Questions)
+Applied Learning Project
+This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace.
+The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. Through a mix of videos, assessments, and hands-on labs, you’ll get introduced to analysis tools and platforms and key analytical skills required for an entry-level job.
+Skills you’ll gain will include: Data cleaning, problem solving, critical thinking, data ethics, and data visualization
+Platforms and tools you will learn include: Presentations, Spreadsheets, SQL, Tableau and R Programming
+In addition to expert training and hands-on projects, you'll complete a case study that you can share with potential employers to showcase your new skill set. Learn concrete skills that top employers are hiring for right now.
+MAIN CONTENT
+Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
 
+Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau)
 
-##6. Share Data Through the Art of Visualization
-Visualizing data
-Creating data visualizations with Tableau
-Crafting data stories
-Developing presentations and slideshows
-Overall notes for Course 6 (Share Data Through the Art of Visualization)
-7. Data Analysis with R Programming
-Programming and data analytics
-Programming using RStudio
-Working with data in R
-More about visualizations, aesthetics, and annotations
-Documentation and reports
-Overall notes for Course 7 (Data Analysis with R Programming)
+Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming
+
+Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms
+
+SKILLS YOU WILL GAIN
+Spreadsheet
+Data Cleansing
+Data Analysis
+Data Visualization (DataViz)
+SQL
+Questioning
+Decision-Making
+Problem Solving
+Metadata
+Data Collection
+Data Ethics
+Sample Size Determination
+Instructor: Google Employers
